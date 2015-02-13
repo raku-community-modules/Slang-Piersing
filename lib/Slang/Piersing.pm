@@ -1,7 +1,4 @@
 sub EXPORT(|) {
-    sub atkeyish(Mu \h, \k) {
-        nqp::atkey(nqp::findmethod(h, 'hash')(h), k)
-    }
     my role Piersing {
         token identifier {
             <.ident> [ <.apostrophe> <.ident> ]* <[?!]>?
