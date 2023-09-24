@@ -1,14 +1,25 @@
 {
-    "perl" : "6.d",
-    "name" : "Slang::Piersing",
-    "author" : "github:FROGGS",
-    "version" : "0.0.1",
-    "description" : "allows identifier names like 'foo?' and 'foo!'",
-    "depends" : [
-        "Slangify:ver<0.0.2+>:auth<zef:lizmat>"
-    ],
-    "provides" : {
-        "Slang::Piersing" : "lib/Slang/Piersing.rakumod"
-    },
-    "source-url" : "git://github.com/FROGGS/p6-Slang-Piersing.git"
+  "auth": "zef:raku-community-modules",
+  "build-depends": [
+  ],
+  "depends": [
+    "Slangify:ver<0.0.2+>:auth<zef:lizmat>"
+  ],
+  "description": "allow ? and ! at end of identifiers",
+  "license": "Artistic-2.0",
+  "name": "Slang::Piersing",
+  "perl": "6.d",
+  "provides": {
+    "Slang::Piersing": "lib/Slang/Piersing.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "git://github.com/raku-community-modules/Slang-Roman.git",
+  "tags": [
+    "SLANG",
+    "RUBY"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.2"
 }
