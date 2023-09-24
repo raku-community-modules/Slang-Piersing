@@ -1,12 +1,14 @@
 {
-    "perl" : "6.*",
+    "perl" : "6.d",
     "name" : "Slang::Piersing",
     "author" : "github:FROGGS",
     "version" : "0.0.1",
     "description" : "allows identifier names like 'foo?' and 'foo!'",
-    "depends" : [ ],
+    "depends" : [
+        "Slangify:ver<0.0.2+>:auth<zef:lizmat>"
+    ],
     "provides" : {
-        "Slang::Piersing" : "lib/Slang/Piersing.pm"
+        "Slang::Piersing" : "lib/Slang/Piersing.rakumod"
     },
     "source-url" : "git://github.com/FROGGS/p6-Slang-Piersing.git"
 }
