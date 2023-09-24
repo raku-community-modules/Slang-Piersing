@@ -2,7 +2,7 @@
 
 This slang allows identifier names like 'foo?' and 'foo!':
 
-```perl6
+```raku
 sub foo?($a, $b) { $a * $b };
 sub foo!($a, $b) { $a + $b };
 
