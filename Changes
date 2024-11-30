@@ -1,6 +1,8 @@
 Revision history for Slang::Piersing
   
 {{$NEXT}}
+
+0.0.3  2024-11-30T20:07:57+01:00
     - Add CI badge for each OS
     - Fix source-url
 
