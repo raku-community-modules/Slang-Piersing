@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/raku-community-modules/Slang-Piersing/workflows/test/badge.svg)](https://github.com/raku-community-modules/Slang-Piersing/actions)
+[![Actions Status](https://github.com/raku-community-modules/Slang-Piersing/actions/workflows/linux.yml/badge.svg)](https://github.com/raku-community-modules/Slang-Piersing/actions) [![Actions Status](https://github.com/raku-community-modules/Slang-Piersing/actions/workflows/macos.yml/badge.svg)](https://github.com/raku-community-modules/Slang-Piersing/actions) [![Actions Status](https://github.com/raku-community-modules/Slang-Piersing/actions/workflows/windows.yml/badge.svg)](https://github.com/raku-community-modules/Slang-Piersing/actions)
 
 NAME
 ====
