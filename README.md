@@ -24,17 +24,19 @@ DESCRIPTION
 
 The `Slang::Piersing` module adapts the Raku Programming Language syntax to allow the question mark `?` and exclamation mark `!` at the end of identifiers.
 
-AUTHOR
-======
+AUTHORS
+=======
 
-Tobias Leich (FROGGS)
+  * Tobias Leich (FROGGS)
 
 Source can be located at: https://github.com/raku-community-modules/Slang-Piersing . Comments and Pull Requests are welcome.
 
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2015, 2016, 2017 Tobias Leich, 2023 Raku Community
+Copyright 2015, 2016, 2017 Tobias Leich
+
+Copyright 2023, 2025 Raku Community
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
