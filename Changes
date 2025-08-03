@@ -1,6 +1,8 @@
 Revision history for Slang::Piersing
   
 {{$NEXT}}
+
+0.0.4  2025-08-03T20:08:39+02:00
     - Modernized META6.json and docs
     - Bump dependency on Slangify
     - Update copyright year
